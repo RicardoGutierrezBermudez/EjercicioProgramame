@@ -1,5 +1,7 @@
 package dam.m11.ej1;
-
+/**
+ * Ejercicio de concurso programame el cual indica un spoiler de star wars.
+ */
 import java.util.Scanner;
 
 public class LukeYoSoyTuPadre {
